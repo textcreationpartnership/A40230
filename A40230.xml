@@ -1,0 +1,263 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The people of God in scorn called Quakers their love to all mankind for as God's love through Christ hath been shed abroad in our hearts, we cannot but in the same love desire the eternal good and the salvation of all mankind ... / by George Fox.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40230</idno>
+            <idno type="STC">Wing F1880A</idno>
+            <idno type="STC">ESTC R28005</idno>
+            <idno type="EEBO-CITATION">10325477</idno>
+            <idno type="OCLC">ocm 10325477</idno>
+            <idno type="VID">44857</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40230)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44857)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1384:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The people of God in scorn called Quakers their love to all mankind for as God's love through Christ hath been shed abroad in our hearts, we cannot but in the same love desire the eternal good and the salvation of all mankind ... / by George Fox.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>23 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inner Light.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44857:1"/>
+            <pb facs="tcp:44857:1" rendition="simple:additions"/>
+            <p>The People of God in Scorn called QUAKERS Their Love to All MANKIND.</p>
+            <p>For as God's Love through Chriſt hath been ſhed abroad in our Hearts, we cannot but in the ſame Love deſire the Eternal Good and the Salvation of all Man<g ref="char:EOLhyphen"/>kind, and would have them Repent, and turn to <hi>Jeſus Chriſt,</hi> whom God h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th given in his Love to be their <hi>Way, Leader</hi> and <hi>Captain</hi> of their Salvation, and hath ta<g ref="char:EOLhyphen"/>ſted Death for every man, and hath bought them with a Price, therefore that they all might ſerve and live to him, and glorifie God with their Bodies, Souls and Spi<g ref="char:EOLhyphen"/>rits, which are the Lord's, that he hath made, and Chriſt's, who hath redeemed and bought them.</p>
+            <p>
+               <hi>By</hi> George Fox.</p>
+            <q>I will give thee for a Light to the <hi>Gentiles,</hi> that thou mayſt be my Salvation to the Ends of the World, <bibl>
+                  <hi>Iſa. 49.6.</hi>
+               </bibl>
+            </q>
+            <q>And all the Ends of the Earth ſhall ſee the Salvation of our God, <bibl>
+                  <hi>Iſa. 52.10.</hi>
+               </bibl>
+            </q>
+            <q>Have I any Deſire that the Wicked ſhould dye? ſaith the Lord God: or ſhall he not live if he turn from his Wicked Ways? for I deſire not the Death of him that dyeth, ſaith the Lord; wherefore turn your ſelves, and live ye. <bibl>
+                  <hi>Ezek. 18.23, 32.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Year, 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:44857:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:44857:2"/>
+            <head>The People of God in Scorn called QUAKERS Their LOVE to All MANKIND.</head>
+            <p>IT hath often been ſaid, <hi>That the People of God in ſcorn called</hi> Quakers <hi>love none but themſelves.</hi>
+            </p>
+            <p>To this I anſwer, ſuch are miſtaken in their Judg<g ref="char:EOLhyphen"/>ment, and I fear it is their own Conditions, for we love God that Created all things, and his Son, <hi>by whom all things were made, who was conceived by the Holy Ghoſt, born of a Virgin, who made a good Confeſſion before</hi> Pontius Pilate, <hi>who was Cruc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fied without the Gates at</hi> Jeruſalem, <hi>and roſe the third Day, and ſits at the right Hand of God; by whom God will judge the World according to the Goſpel,</hi> that is according to the inviſible Power which is preacht to every Creature.</p>
+            <p>
+               <hi>Secondly,</hi> we love all Men and Women, ſimply as they are Men and Women, and as they are God's workmanſhip, and ſo as Brethren and Children of <hi>Adam</hi> and <hi>Eve</hi> by Generation.</p>
+            <p>
+               <hi>Thirdly,</hi> we love them all as they come to be Sons of God by Adoption, and can ſay, <hi>Abba Father</hi> in the heavenly Brotherly fellowſhip, and we are com<g ref="char:EOLhyphen"/>manded to do good unto all, eſpecially to the Houſe
+<pb n="4" facs="tcp:44857:3"/>hold of Faith: For Chriſt commands us to love one another, and not ſo only, <hi>but to love Enemies,</hi> and it is a mark by which his were known to be his Diſ<g ref="char:EOLhyphen"/>ciples, <hi>viz.</hi> by their loving each other.</p>
+            <p>And we are to pray for Enemies and our Perſecu<g ref="char:EOLhyphen"/>ters, by the command of Chriſt and the Apoſtles.</p>
+            <p>
+               <hi>For God hath ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of one Blood all mankind to dwell up<g ref="char:EOLhyphen"/>on the face of the Earth, Acts</hi> 17.26.</p>
+            <p>
+               <hi>And the Earth is the Lord's and the fullneſs thereof.</hi> And the Lord ſaith in <hi>Job</hi> 31. <hi>All under the Heavens is mine,</hi> who hath Created all to his Glory: and the Lord ſaith unto <hi>Ezekiel, ſay unto them, as I live ſaith the Lord God; I deſire not the Death of the wicked, but that the wicked turn from his Way and live; turn you, turn you, from your evil Wayes, for why will you dye Oh ye Houſe of</hi> Iſrael, <hi>ſaith the Lord;</hi> here ye may ſee God's mind and his love to People, which all his People is to be in, who would have People turn from their wicked Wayes and live, <hi>Ezek.</hi> 33.11.</p>
+            <p>And further, the Lord ſaith, <hi>I deſire not the death of him that dieth, cauſe therefore one another to turn and live;</hi> ſee here the love of God to <hi>Mankind,</hi> who would have them to turn and live, <hi>Ezek.</hi> 18.23. And ſo he would have all that's called <hi>Chriſtendom</hi> to turn to the New Covenant and live, which is our deſire alſo.</p>
+            <p>And further, he ſaith, <hi>Have I any deſire that the Wicked ſhould dye ſaith the Lord God? Or ſhall he not live, if he turn from his wayes?</hi> here ye may ſee what the Lord's deſire is, and his goodneſs to wicked Mankind, in the ſame Chap. And in <hi>Eſai.</hi> 1.18. <hi>Come now and let us Reaſon together,</hi> ſaith the Lord, <hi>though your Sins were as Crimſon, they ſhall be made white as
+<pb n="5" facs="tcp:44857:3"/>Snow, though they were as red as Scarlet, they ſhall be as Wool, if you conſent and obey, ye ſhall eat the good things of the Land, but if you refuſe and be Rebellious, ye ſhall be devoured with the Sword; for the Mouth of the Lord hath ſpoken it:</hi> here ye may ſee the love of God to Man and Woman, who would reaſon with Man, and have him to obey and conſent, and ſhews him the good in obeying, and ſhews him the Judgments in diſobeying.</p>
+            <p>And in <hi>Eſai.</hi> 45.22. <hi>Look unto me, and ye ſhall be ſaved, ſaith the Lord, all ye ends of the Earth, for I am God and there is no other:</hi> So all ye ends of the Earth muſt look unto the Lord for Salvation.</p>
+            <p>And <hi>Eſai.</hi> ſaith, <hi>Ceaſe you from Man whoſe Breath is in his Noſtrils,</hi> for wherein is he to be eſteemed of? <hi>Iſa.</hi> 2.22. and therefore all ye ends of the Earth muſt look unto the Lord for Salvation, theſe are the words of the Lord to the ends of the Earth, and to all Peo<g ref="char:EOLhyphen"/>ple upon it.</p>
+            <p>And thus ſaith the Lord, <hi>I will give thee for a Light of the Gentiles, that thou mayeſt be my Salvation unto the End of the World,</hi> (ſpeaking of Chriſt) as in <hi>Iſa.</hi> 49.6.</p>
+            <p>Who is the Salvation to the End of the World? <hi>Chriſt Jeſus, the Covenant of Light,</hi> which Propheſie of <hi>Iſaiah</hi> was fulfilled in Chriſt, of whom it's ſaid in <hi>John</hi> 1. <hi>In him was Life, and the Life w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s the Light of Men, and the Light ſhined in the Darkneſs, and the Darkneſs comprehended it not,</hi> and <hi>John Baptiſt</hi> ſaid, <hi>he was not that Light, but was ſent to bear Witneſs of the Light, and that was the true Light which lighteth every man that cometh into the World, he was in the World, and the world was made by him, and the world knew him
+<pb n="6" facs="tcp:44857:4"/>not,</hi> (to wit) Chriſt the Light, that lighteth every Man that cometh into the World; and <hi>Grace and Truth cometh by Jeſus Chriſt, as the Law came by</hi> Moſes, <hi>for the Grace of God which bringeth Salvation unto all men hath appeared,</hi> (mark) unto all men hath ap<g ref="char:EOLhyphen"/>peared this Grace of God which bringeth Salvation.</p>
+            <p>Here is the general love of God to <hi>Mankind,</hi> which teacheth us to live Soberly, <hi>&amp;c.</hi> ſaith the Apo<g ref="char:EOLhyphen"/>ſtle to the true Chriſtians, and that we ſhould deny Ungodlineſs and worldly Luſts, and live Soberly and Righteouſly, and Godly in this preſent World.</p>
+            <p>So this Grace of God, which hath appeared unto all men, was their <hi>Teacher,</hi> how to live and walk to God and Man, and what to deny; I ſay, how to live and walk to God which brought their Salvation, and to look for the bleſſed Hope and the appearing of the Glory of the mighty God, and our Saviour Jeſus Chriſt, <hi>who gave himſelf for us, that he might redeem us from all Iniquity,</hi> and purge us, to be a peculiar People unto himſelf, Zealous of good Works, <hi>&amp;c.</hi> So, here is the love God in Chriſt unto all <hi>Mankind, Titus</hi> 2.14 to the end, which we are Witneſſes of, and we deſire all might obey it, and not turn from it into Wantonneſs.</p>
+            <p>And <hi>John</hi> ſaith of Chriſt, <hi>Behold the Lamb of God, that takes away the Sins of the World.</hi> So all the World is to look unto the Lamb of GOd, which takes away their Sins, as you may ſee in <hi>Joh.</hi> 2. and not to plead for Sin to the Grave, but for the Lamb that takes it away.</p>
+            <p>
+               <hi>For God ſo loved the World, that he gave his only begot<g ref="char:EOLhyphen"/>ten Son, that whoſoever believeth in him ſhould not Periſh but have everlaſting Life:</hi> So here God ſo loved the
+<pb n="7" facs="tcp:44857:4"/>World, that he gave his only begotten Son into the World, that he that believeth in the Son hath ever<g ref="char:EOLhyphen"/>laſting Life, and he that believeth not in the Son of God ſhall not have Life, but the wrath of God abi<g ref="char:EOLhyphen"/>deth on him: Now here is God's love to be ſeen whether Men believe and obey, or not, and the wrath of God abideth upon him that doth not be<g ref="char:EOLhyphen"/>lieve, as in <hi>John</hi> 3.</p>
+            <p>And Jeſus Chriſt ſaith, <hi>Wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>le ye have the Light be<g ref="char:EOLhyphen"/>lieve in the Light, for I am come a Light into the world, that whoſoever believes in me ſhould not abide in Darkneſs, but have the Light of life:</hi> Now here Chriſt teacheth how men ſhould believe, and what to believe in, to wit, the Light, as in <hi>John</hi> 12. which we do and would have all People to believe in, <hi>Chriſt the light.</hi>
+            </p>
+            <p>And again, Jeſus ſaith, <hi>I am the light of the world, he that followeth me ſhall not walk in Darkneſs, but ſhall have the light of life.</hi> So he who is the heavenly man and the Son of God, is the Light of the World, and enlightneth every man that comes into the world, and bid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them believe in the Light whom God hath given for a Light<g ref="char:punc">▪</g> and to be his Salvation to the ends of the Earth. And when Chriſt ſaid, he was the Light of the World <hi>&amp;c.</hi> The <hi>Phariſees</hi> were offend<g ref="char:EOLhyphen"/>ed at him; as many <hi>fair Sayers</hi> and <hi>had Doers</hi> are now offended at the believers in the Light, and ſuch as are become Children of it, that bear witneſs to it, <hi>John</hi> 8.12.</p>
+            <p>And in <hi>Luke</hi> 2.28, 29, 30, 31. When <hi>Simeon</hi> took Jeſus in his Armes, and ſaid, <hi>Now Lord let thy Scr<g ref="char:EOLhyphen"/>vant depart in Peace, for mine Eyes have ſeen thy Sal<g ref="char:EOLhyphen"/>vation, which thou prepareſt before the face of all People</hi> (mark) <hi>all People;</hi> here is no Sect) <hi>a light to be re<g ref="char:EOLhyphen"/>vealed
+<pb n="8" facs="tcp:44857:5"/>to the</hi> Gentiles, <hi>and the Glory of thy People Iſra<g ref="char:EOLhyphen"/>el,</hi> mark, a Light to be revealed to the <hi>Gentiles.</hi>
+            </p>
+            <p>Chriſt is revealed to the <hi>Gentiles,</hi> who is their Light to enlighten them, <hi>Luke</hi> 2. By which Light People ſee their Sins, and by which Light they ſee their Saviour, Chriſt, that ſaves them from their Sins, and dyed for their Sins, and roſe again for their Juſtification.</p>
+            <p>And ſee Chriſt's own Words in <hi>Joh.</hi> 6.51. <hi>I am the Living Bread which came down from Heaven, if any man eat of this Bread, he ſhall live forever; and the Bread that I will give, is my Fleſh, which I will give for the Life of the WORLD,</hi> Mark, his Fleſh for the Life of the World; and they muſt eat it, if they will live forever; and here is the Love of God in Chriſt Jeſus to the World, who gives his Fleſh for the Life of the World; and they muſt eat him who is the Bread of Life that came down from Heaven, if they live: So it is not only <hi>talking,</hi> but it is <hi>ſeeding</hi> and <hi>eating</hi> (Joh. 6.) that is required, if you will have Life.</p>
+            <p>Now, Chriſt doth not ſay, He would give his Fleſh for the Life of <hi>ſome</hi> of the World; but in <hi>Luke</hi> 3.6. ſaith, ALL <hi>Fleſh ſhall ſee the Salvation of God;</hi> and they that ſee their Salvation, Chriſt Jeſus, they muſt come to the Light that comes from him, which gives the Knowledge; but if they hate this Light, it does condemn them, as in <hi>John</hi> 3.</p>
+            <p>And in <hi>Rom.</hi> 5. <hi>For Chriſt (when we were yet of no Strength) at this time dyed for the Ungodly; for when we were Enemies we were reconciled to God by the Death of his Son.</hi> And therefore People ſhould dye with Chriſt to Sin, and have their Old Man crucified with
+<pb n="9" facs="tcp:44857:5"/>him, that their Old Man might be deſtroyed; that henceforth they ſhould not ſerve Sin, and remain E<g ref="char:EOLhyphen"/>nemies, <hi>Rom.</hi> 5, &amp; 6. Here ye may ſee Chriſt dyed for the Ungodly and for Enemies, not that they ſhould live in Ungodlineſs, but live to him that dyed for them: <hi>For Chriſt dyed, and roſe again, and aſ<g ref="char:EOLhyphen"/>ſcended that he might be Lord both of the Dead and of the Living:</hi> Therefore none are to live to themſelves, but unto the Lord; and this ſhould be all true <hi>Chri<g ref="char:EOLhyphen"/>ſtians</hi> living and dying in the Lord, <hi>Rom.</hi> 14.</p>
+            <p>
+               <hi>For as in</hi> Adam <hi>all dyed, even ſo in Chriſt ſhall</hi> ALL <hi>be made alive,</hi> Cor. 1.15. Here is God's Love to all Mankind, who are made alive by Chriſt Jeſus; for as it is written, <hi>The firſt</hi> Adam <hi>was made a Living Soul, the ſecond</hi> Adam <hi>a Quickening Spirit; the firſt</hi> Adam <hi>was of the Earth earthly, the ſecond</hi> Adam <hi>the Lord from Heaven.</hi>
+            </p>
+            <p>And the Apoſtle ſaith in 2 <hi>Cor.</hi> 5.14, 15. <hi>For the Love of Chriſt conſtrains us becauſe we thus judge, that if one dyed for</hi> ALL, <hi>then were all dead, and he dyed for all</hi> (to wit, Chriſt, ſaith the Apoſtle) <hi>that they which live ſhould not henceforth live unto themſelves,</hi> [mark, not live unto themſelves] <hi>but live unto him</hi> (to wit, Chriſt) <hi>which dyed for them and roſe again:</hi> Here is the Love of God to Mankind in Chriſt Je<g ref="char:EOLhyphen"/>ſus, which we bear witneſs to, who dyed for all, for Sinners and Enemies, that henceforth they ſhould not live unto themſelves, but unto Chriſt that dyed for them.</p>
+            <p>And in <hi>Col.</hi> 1.23. to the End, the Apoſtle ſaith to the Saints, <hi>If ye continue grounded and eſtabliſhed in the Faith, and not be moved away from the Hope of the
+<pb n="10" facs="tcp:44857:6"/>Goſpel, whereof ye have heard, which hath been preacht to EVERY Creature under Heaven.</hi>
+            </p>
+            <p>And the Apoſtle ſaith, <hi>The Goſpel of Chriſt is the Power of God unto Salvation to</hi> EVERY <hi>one that belie<g ref="char:EOLhyphen"/>veth, to the</hi> Jew <hi>firſt, and alſo to the</hi> Grecian, as in <hi>Rom.</hi> 1.16. So mark, this Goſpel is preacht to every Creature under Heaven, this Joyful News and Glad<g ref="char:EOLhyphen"/>tidings: So here the Apoſtle makes no Sects; here is God's Love in the Goſpel of Chriſt Jeſus to every Creature under Heaven. And the Apoſtles preacht Chriſt Jeſus and his Goſpel, <hi>admoniſhing every man and teaching every man</hi> [mark EVERY Man] <hi>in all Wiſdom, that we may preſent EVERY Man Perfect in Chriſt Jeſus;</hi> and this we deſire all People may come to witneſs with us.</p>
+            <p>Now all the Imperfection is out of Chriſt Jeſus, in the Devil, and <hi>Adam</hi> in the Fall; and the Perfe<g ref="char:EOLhyphen"/>ction is in Chriſt Jeſus, that never fell: Here was their general Miniſtry in the Love of God in Chriſt Jeſus, and ſo is ours, and to preſent all perfect in Chriſt.</p>
+            <p>For, <hi>Chriſt alſo hath once ſuffered for Sins, the Juſt for the Unjuſt, that he might bring us unto God</hi> [mark, that he might bring us unto God] and <hi>Chriſt was put to Death concerning the Fleſh</hi> (not as he was God) <hi>but was quickened in the Spirit,</hi> 1 Pet. 3.18. <hi>And He is the Reconciliation for our Sins,</hi> to wit, Chriſt, <hi>and not for our Sins only, but for the Sins of the whole World;</hi> mark, for the Sins of the Whole World: <hi>And he that ſaith he abideth in Chriſt, ought even ſo to walk as he walketh,</hi> 1 John 2.2. for he hath left us an
+<pb n="11" facs="tcp:44857:6"/>Example, not only to talk of him, but to walk after him, and follow him.</p>
+            <p>And the Apoſtle ſaith, <hi>Therefore we labour and are rebuked, becauſe we truſt in the Living God, which is the Saviour of all men, eſpecially of thoſe that believe; theſe things</hi> (ſaith he to Timothy) <hi>command and teach,</hi> 1 Tim. 4.10, 11. which we do by the ſame Power and Spirit.</p>
+            <p>And the Apoſtle ſaith in <hi>Hebr.</hi> 2.9. <hi>But we ſee Je<g ref="char:EOLhyphen"/>ſus crowned with Glory and Honour, which was made a little inferiour to the Angels, through the ſufferings of Death, that by God's Grace he might taſte Death for E<g ref="char:EOLhyphen"/>VERY Man, that he might deſtroy through Death him that hath the Power of Death, that is the Devil, Hebr.</hi> 2. So here is the Love of God in giving his Son, who taſted Death for all men, who ſaid, <hi>He had Power to lay down his Life, and Power to take it up again.</hi> And they that ſay, Chriſt did not taſte Death for <hi>e<g ref="char:EOLhyphen"/>very</hi> Man, are the <hi>Sect-Makers</hi> and <hi>Sectaries</hi> amongſt People, and are contrary to the <hi>Apoſtles, Chriſt</hi> and his <hi>Prophets</hi> Doctrine.</p>
+            <p>And in 1 <hi>Pet.</hi> 2.17. <hi>Peter</hi> ſaith to the <hi>Chriſtians, Honour</hi> ALL <hi>Men, love the Brotherly-Fellowſhip, fear God, honour the King:</hi> For God hath honoured <hi>all</hi> men in giving his Son, a Light, and to be his Salva<g ref="char:EOLhyphen"/>tion to the Ends of Earth, and to enlighten <hi>all</hi> men: And his Grace hath appeared to <hi>all</hi> men, which brin<g ref="char:EOLhyphen"/>geth Salvation, and he hath dyed for <hi>all</hi> men, and taſted Death for <hi>all</hi> men; and God deſires not the Death of any man, but would have them to turn to him: If God hath ſo honoured all men, in giving his Son to be a Mediator, and a Redeemer, and Pur<g ref="char:EOLhyphen"/>chaſer
+<pb n="12" facs="tcp:44857:7"/>with his Blood of Men and Women out of Sin and Evil, we are to honour all Men as Men, becauſe they are God's Creation and Workmanſhip, who made them in his Image, though they loſt it; and all they that are renewed in again, are renewed by Je<g ref="char:EOLhyphen"/>ſus Chriſt; ſo we are to have <hi>all</hi> men in Eſteem, and Honour <hi>all</hi> men, and not to curſe nor hate any man; and we are to love the Brotherhood, ſuch as are Di<g ref="char:EOLhyphen"/>ſciples and Learners of Chriſt Jeſus, and Followers of him, who are in the Brotherly Fellowſhip, which is in the Holy Ghoſt, which the Apoſtles were in; and the Fellowſhip is in the Spirit, and the Unity, which is the Bond of Peace, yea, even the Bond of the Prince of Princes Peace, which is the Duty of every true <hi>Chriſtian</hi> to keep, as alſo to Fear God and Honour the King; now none can honour the King but who fear God; they that fear God muſt depart from Sin and Evil; for they that do not depart from Sin and Evil, do not fear God, which doth keep their Hearts clean, and is the Beginning of God's Wiſdom from above; and they that do not depart from Evil, but live in it, diſhonour both God and the King, and their own Bodies, which are God's Workmanſhip, and ſo diſhonour God their Creator, and Chriſt their Saviour and Redeemer.</p>
+            <p>And the Apoſtle ſaith in 1 <hi>Tim.</hi> 2.1. <hi>I exhort there<g ref="char:EOLhyphen"/>fore, that firſt of all Supplications, Prayers, Interceſſions and Giving of Thanks be made for</hi> ALL <hi>Men</hi> [mark, for <hi>all</hi> men.] So here in their Prayers, and Suppli<g ref="char:EOLhyphen"/>cations, and Interceſſions they are to make no Sect, but that <hi>all</hi> men muſt be prayed for; and Prayers, Sup<g ref="char:EOLhyphen"/>plications, and Interceſſions and Thanks muſt be
+<pb n="13" facs="tcp:44857:7"/>made for Kings and for <hi>all</hi> that are in Authority; mark, for <hi>all</hi> that be in Authority: again, here is no Sect made, but an univerſal general Prayer, <hi>that we may lead a quiet and a peaceable Life under them in all Godlineſs and Honeſty;</hi> mark, in all Godlineſs and Honeſty; for this is Good and acceptable in the Sight of God our Saviour, who wills <hi>that</hi> All <hi>Men ſhould be ſaved, and come to the Knowledge of the Truth,</hi> and that is by the Light of Chriſt Jeſus, that ſhines in the Heart; mark, this is God's Will &amp; Mind, that <hi>All men ſhould be ſaved, and come to the Knowledge of the Truth; for there is one God, &amp; one Mediator betwixt God and Man, which is the Man Chriſt Jeſus;</hi> mark, the <hi>Man Chriſt Jeſus, who gave himſelf a Ranſom for all men, to be teſtified in due time;</hi> mark, for all men, to be te<g ref="char:EOLhyphen"/>ſtified in due time: again, here is no Sect made, nor any excluded; therefore as he gave himſelf a Ran<g ref="char:EOLhyphen"/>ſom for all men; and the Will of God is, that all men ſhould be ſaved, and come to the Knowledge of the Truth; and therefore Prayers, and Supplicati<g ref="char:EOLhyphen"/>ons, and Interceſſions, and giving of Thanks muſt be made for all men, and for Kings, and all that be in Authority, that we may lead a quiet and a peace<g ref="char:EOLhyphen"/>able Life under them in all Godlineſs and Honeſty, <hi>Amen.</hi>
+            </p>
+            <p>
+               <hi>And they that have the Mind of Chriſt do this, and know the Common Faith and the Common Sal<g ref="char:EOLhyphen"/>vation,</hi> Jude 3.
+<note place="margin">
+                  <hi>Tit.</hi> 1.4.</note> And this Common Faith and Common Salvation the Saints were earneſtly to contend for, which Chriſt their Saviour is the Au<g ref="char:EOLhyphen"/>thor of, which we do contend for this day againſt all Oppoſers.</p>
+            <pb n="14" facs="tcp:44857:8"/>
+            <p>And all that have the Mind of Chriſt, own this; for the Apoſtle ſaid, <hi>We have the Mind of Chriſt;</hi> we the Church, Diſciples and True Chriſtians: and alſo the Apoſtle ſaith, <hi>Let the ſame Mind be in you as was in Chriſt Jeſus;</hi> and then the ſame Mind will own his Words and Doctrine, that he ſpoak, and as the A<g ref="char:EOLhyphen"/>poſtles did and ſpoak, <hi>Phil.</hi> 2.5. 1 <hi>Cor.</hi> 2.16.</p>
+            <p>But all you that ſay, <hi>Chriſt hath not taſted Death for every Man, and hath not given himſelf a Ranſom for all men;</hi> &amp; ſay that <hi>He hath not enlightened every man that cometh into the World, the heavenly Man with his hea<g ref="char:EOLhyphen"/>venly Light, the ſpiritual Man with his divine &amp; ſpiritu<g ref="char:EOLhyphen"/>al Light;</hi> and <hi>that his Grace hath not appeared to all men, which brings Salvation, which is the Saints Teacher;</hi> and that <hi>Chriſt hath not dyed for all men, and is not a Propitia<g ref="char:EOLhyphen"/>tion for the Sins of the whole World, but for the Saints only, or the World of Believers,</hi> as you call them; you are the Makers of Sects and Schiſms, and in your vain Thoughts imagine, <hi>Chriſt dyed only for your own Sects,</hi> and that <hi>God hath Ordained of old the Greateſt part of Mankind for Hell;</hi> you are of another Mind then the Apoſtles, who ſaid, <hi>Chriſt dyed for all, and taſted Death for every man, and would have all men to be ſaved, and come to the Knowledge of the Truth, and therefore Supplications and Prayers muſt be made for all men; and you muſt Love Enemies as well as Friends; and the Lord deſires not the Death of a Sinner, but ra<g ref="char:EOLhyphen"/>ther that he might turn and live; and Chriſt is the Sa<g ref="char:EOLhyphen"/>viour of</hi> All <hi>Men, eſpecially of them that believe:</hi> you are of another Mind and Spirit then the Prophets, and Chriſt and the Apoſtles were of, that ſay, <hi>Chriſt did not dye for all Men, and taſted Death for every man,
+<pb n="15" facs="tcp:44857:8"/>and gave himſelf a Ranſom for all men:</hi> And <hi>God would have all men to be ſaved, and come to the Knowledge of the Truth; and the Manifeſtation of the Spirit of God is given to every man to profit withal</hi> (1 Cor. 12.7.) mark, every man; and you that are againſt this, are the Sect-makers, and have not the Mind of the Apoſtle; and this Doctrine of Chriſt and the Apoſtles we preach and teach, and bear witneſs unto againſt all the Oppoſers and Sect-makers whatſoever.</p>
+            <p>And the Apoſtle ſaith, <hi>But he that underſtandeth according to Sobriety, as God hath dealt to every man the Meaſure of Faith;</hi> mark, as God hath dealt to eve<g ref="char:EOLhyphen"/>ry man the Meaſure of Faith; ſo he is the Dealer; for it is his Gift; for Faith is the Gift of God, which Chriſt is the Author of, and not man, by which e<g ref="char:EOLhyphen"/>very man ſhould walk, by that Faith which God hath dealt to him by Chriſt Jeſus, the Author and Finiſher, <hi>Rom.</hi> 12.3. <hi>For of him</hi> (to wit, God) <hi>and through him, and for him are all things; to him be Glory forever,</hi> Amen. <hi>Rom.</hi> 11.</p>
+            <p>So your <hi>Directory</hi> and <hi>Church Faith,</hi> as you call it, may lie and mold; for we underſtand according to Sobriety, that as God hath dealt to every man the Meaſure of Faith, his Gift, ſo he is to walk by, in which he pleaſes God through Chriſt Jeſus, whom all <hi>Chriſtians</hi> muſt look unto, Jeſus, who is the Au<g ref="char:EOLhyphen"/>thor of their Faith, and Finiſher of it, who is the Author of ours, Glory to God forever: And the Wiſe Man's Eye is in his Head, Chriſt Jeſus, who is the Head of all, who bruiſes the Serpent's Head, that led Men from God, and hath been between Men and God; and he that doth this, leads Man again to
+<pb n="16" facs="tcp:44857:9" rendition="simple:additions"/>God (to wit, Chriſt) who is the true Baptizer, who baptizes with Fire and with the Holy Ghoſt, whoſe Fan is in his Hand, and he will cleanſe his Floor, the Floor of your Hearts, and will gather his Wheat into his Garner, but will burn up the Chaff with unquenchable Fire; and they that know this Bap<g ref="char:EOLhyphen"/>tizer (to wit, Chriſt) are the true <hi>Chriſtians,</hi> and will never plead for the Chaff, their Body of Death and Sin to the Grave; for when Chriſt ſets Fire in your Hearts and Minds, that never ſhall be quench<g ref="char:EOLhyphen"/>ed till the Chaff is burnt up; ſuch will not plead for the Chaff, but for Chriſt and his Baptiſm, which we own, and would have all People come to. For in the Time of the Law things were to paſs through the Fire and Water, to be made clean; ſo muſt you paſs through Chriſt's Fire and Water, which purifies and waſhes, before you will be clean to enter into his holy Kingdom, and know his Baptiſm, as in <hi>Luke</hi> 3.16, 17. For <hi>Simon Magus</hi> may go into the Outward Water, and yet not come to Chriſt's Baptiſm, and think he can buy the Gift of God for Money, which was judged by the Apoſtle, and by all that be in the ſame ſpirit.</p>
+            <p>And this is the One Baptiſm, <hi>For by One Spirit we</hi> (the true Church) <hi>are all baptized into one Body, whether we be</hi> Jews <hi>or</hi> Grecians, <hi>Bond or Free, and have been all made to drink into one Spirit:</hi> And for want of this Spirit's baptizing of you, and you drink<g ref="char:EOLhyphen"/>ing into it, there are ſo many Bodies and Sects in <hi>Christendom,</hi> and ſo many Baptiſms and Wayes, and ſo do not drink all into one Spirit, in which the Uni<g ref="char:EOLhyphen"/>ty and Fellowſhip and the Bond of the Prince of
+<pb n="17" facs="tcp:44857:9"/>Princes Peace is, which we ſay all true <hi>Chriſtians</hi> are bound to keep, and then they will ſeek the Good of all men and the Peace of all men; let them be of ſe<g ref="char:EOLhyphen"/>veral Sects formerly, yet by One Spirit they are all baptized into one Body, as they come to the Spirit, then they drink into one Spirit, then here is Fellow<g ref="char:EOLhyphen"/>ſhip in the One Spirit, 1 <hi>Cor.</hi> 12.13.</p>
+            <p>So all <hi>Chriſtians</hi> are to endeavour to keep the Uni<g ref="char:EOLhyphen"/>ty of this Spirit in the Bond of Peace.</p>
+            <p>Here is one Body and one Spirit, even as ye are called into one Hope of your Vocation; <hi>there is one Lord, one Faith, one Baptiſm, and one God, and one Father of all, which is above all, and through all,</hi> [mark] <hi>and in you all;</hi>
+               <note place="margin">Phil. 4.</note> know him there ſearching your Hearts, and find him there try<g ref="char:EOLhyphen"/>ing your Reins; incline your Ears, and give ear to him there, who will render to every one of you ac<g ref="char:EOLhyphen"/>cording to your Words and Works, whether they be Good or Evil.</p>
+            <p>And therefore quench not, nor vex, nor grieve his good Spirit, nor rebel againſt the Good Spirit which God hath given to you to inſtruct you, and to profit withal, <hi>Neh.</hi> 9. nor turn the Grace of God into Wantonneſs, which would teach you, and bring your Salvation; neither walk deſpightfully againſt the Spirit of Grace; neither deſpiſe Prophecy, which is an Office in the Church; neither hate the Light of Chriſt (leſt it be your Condemnation) which you ſhould believe in, and become Children of.</p>
+            <p>And in the 1 Corinth. 8.6. <hi>Unto us</hi> (to wit, the Chriſtians) <hi>there is but one God, which is the Father, of whom are all things,</hi> [mark, all things] <hi>and we in him,</hi>
+               <pb n="18" facs="tcp:44857:10"/>[mark, in him] to wit, the Father, of whom are all things) <hi>and one Lord Jeſus Chriſt, by whom are all things,</hi> [mark, by whom are all things] <hi>and we by him</hi> [to wit, by Chriſt] <hi>of whom is named the whole Family in Heaven and Earth, and ſo that Chriſt may dwell in your Hearts by Faith, and that you may be ſtrengthned by his Spirit in your Inward Man,</hi> Epheſ. 3.</p>
+            <p>And do not reſiſt the Holy Ghoſt, as the Out-ſide Profeſſing <hi>Jews</hi> did, &amp; the Stiff-necked &amp; Uncircum<g ref="char:EOLhyphen"/>ciſed in Hearts and Ears, as it is to be feared too ma<g ref="char:EOLhyphen"/>ny of thoſe called <hi>Chriſtians</hi> do now, <hi>Acts</hi> 7.51. for they that do reſiſt the Holy Ghoſt, reſiſt that in which they ſhould have Fellowſhip, and pray in; and they that reſiſt the Holy Ghoſt, reſiſt that which Chriſt ſends to lead the Saints into all Truth by, and ſhews them things to come, and <hi>takes of mine</hi> (ſays Chriſt) <hi>and gives unto you;</hi> and they that reſiſt this, reſiſt their Leader, and their Miniſter, and their Reprover: and this <hi>Comforter, the Spirit of Truth, ſhall reprove the World of Sin,</hi>
+               <note place="margin">John 14.15, 16.</note> 
+               <hi>and of their Righ<g ref="char:EOLhyphen"/>teouſneſs, which is not Chriſt's, and of their Judgment, which is not of the Holy Ghoſt;</hi> and therefore muſt the World leave their Sin, Righ<g ref="char:EOLhyphen"/>teouſneſs and Judgment, and turn at the Reproof of the Holy Ghoſt, which Chriſt prayed unto the Father that he would ſend, and ſhould abide with his Diſciples forever; and he did and hath ſent him, the Holy Ghoſt, the Comforter, that leads into all Truth, in which Holy Ghoſt is our Fellowſhip, which Fel<g ref="char:EOLhyphen"/>ſhip we would have all that are called <hi>Chriſtians</hi> to come into with us.</p>
+            <p>And the Apoſtle ſaith to the <hi>Colloſſions,</hi> he tells
+<pb n="19" facs="tcp:44857:10"/>them, (<hi>Col.</hi> 2.10, 11.) <hi>They were Compleat in Chriſt, the Head of all Principalities and Powers, in whom alſo ye are circumciſed with the Circumciſion made without Hands, by putting off the ſinful Body of the Fleſh, by the Circumciſion of Chriſt;</hi> which we are Witneſſes of, and would have all come to, which they muſt do be<g ref="char:EOLhyphen"/>fore they go to the Grave, or never.</p>
+            <p>Now this was ſo amongſt the true <hi>Chriſtians;</hi> but all you that plead for the ſinful Body of the Fleſh to the Grave, deny the Circumciſion of Chriſt.</p>
+            <p>And further, the Apoſtle ſaith, <hi>Seeing ye have put off the Old Man with his Works, and have put on the New Man, which is renewed in Knowledge after the Image of him</hi> (to wit, God) <hi>that created him; where is neither</hi> Greek <hi>nor</hi> Jew, <hi>Circumciſion nor Uncircumciſion,</hi> Bar<g ref="char:EOLhyphen"/>barian, Scythian, <hi>Bond nor Free, but Chriſt is all and in all,</hi> Col. 3.9, 10, 11. Mark this you called <hi>Chriſti<g ref="char:EOLhyphen"/>ans;</hi> for this is a high State.</p>
+            <p>So all they that plead for the Old Man with his Works to the Grave, are of another Mind and Spi<g ref="char:EOLhyphen"/>rit then the Apoſtles were in, and preach another Doctrine, and there you may ſee theſe true <hi>Chriſti<g ref="char:EOLhyphen"/>ans</hi> had put off the Old Man before they went to the Grave, and put on the New, and were renewed in Knowledge after the Image of God that created them; and this Work muſt all the true <hi>Chriſtians</hi> know whilſt they be upon the Earth, which we wit<g ref="char:EOLhyphen"/>neſs, and deſire all might come to know and do the ſame.</p>
+            <p>And the Apoſtle <hi>James</hi> in his General Epiſtle to the Church, ſpeaking of the Tongue, that Unruly Member, which is full of deadly Poyſon, <hi>Therewith
+<pb n="20" facs="tcp:44857:11"/>bleſs we God, even the Father, therewith curſe we Men, which are made after the Similitude of God.</hi>
+            </p>
+            <p>And now all <hi>Chriſtendom</hi> conſider this, if you bleſs God, and curſe Men that are made after the Simili<g ref="char:EOLhyphen"/>tude of God, ye curſe his Works and his Work<g ref="char:EOLhyphen"/>manſhip, and curſe that which he hath made and created after his own Similitude; and therefore that Evil Tongue and Unruly Member, that is full of Poyſon, you muſt have Power over and bridle, elſe your Religion is vain; for it muſt not do ſo, to curſe the Creator's Workmanſhip after his own Image; for that proceeds from the Wiſdom below, and not from that which is above, as you may ſee in <hi>James</hi> 3. and therefore you muſt love, and honour, and pray for all men, and not curſe them; ſeeing Chriſt hath taſted Death for all men, therefore <hi>bleſs, and curſe not,</hi> and obey his Doctrine who is the Saviour of all men, and eſpecially of them that believe, who would have all men to be ſaved, and to come to the Know<g ref="char:EOLhyphen"/>ledge of the Truth, to wit, Chriſt, who is the Way, the Truth and the Life.</p>
+            <p>And as <hi>Peter</hi> ſaith, <hi>I perceive God is no Reſpecter of Perſons, but in every Nation he that feareth God and worketh Righteouſneſs is accepted of him,</hi> Acts 10.34, 35. So God being no Reſpecter of Perſons, but accepts all that fear him and work Righteouſneſs; therefore all People are to fear God, and depart from Evil and from all Unrighteouſneſs, if they be accepted of God; and their not fearing God, and not working Righte<g ref="char:EOLhyphen"/>ouſneſs, is that which maketh them unacceptable with him.</p>
+            <p>And <hi>Peter</hi> further ſaith, <hi>Ye know the Word that God
+<pb n="21" facs="tcp:44857:11"/>hath ſent to the Children of</hi> Iſrael, <hi>preaching Peace by Jeſus Chriſt, who is Lord of all;</hi> mark, of ALL: So there is no Peace with God but by Jeſus Chriſt.</p>
+            <p>And <hi>the Goſpel, which is preacht to every Creature un<g ref="char:EOLhyphen"/>der Heaven;</hi> and Chriſt's Miniſters were to go into <hi>All Nations</hi> to preach the Goſpel of Chriſt; then the Goſpel was preacht to the Stock of <hi>Ham,</hi> the Stock of <hi>Iſhmael,</hi> and the Stock of <hi>Eſau.</hi> For, <hi>Chriſt dyed for all men, and taſted Death for every man:</hi> and here is God's Love, in ſending his Son, that dyed for all men; and God and Chriſt's Love, in ſending his Mi<g ref="char:EOLhyphen"/>niſters to preach the Goſpel to all men, that they might know the Heavenly Riches, and their Inheri<g ref="char:EOLhyphen"/>tance of the ſame by Chriſt Jeſus; for God's hea<g ref="char:EOLhyphen"/>venly Sun hath ſhined upon the Juſt and the Unjuſt, for their eternal Good, as the natural Sun doth for their outward Good; and doth enlighten all, that all might believe in the Light, and through it receive God's Love and Favour, and they that do not are condemned by it; and the Wrath of God abides up<g ref="char:EOLhyphen"/>on them that reject his Love: ſo we and all that have the Mind of Chriſt, our Love is unto all men for their Outward and Eternal Good, though we are ha<g ref="char:EOLhyphen"/>ted by them for it, as their Fore-Fathers hated the Prophets, Chriſt and the Apoſtles for their Love and Good Will towards them.</p>
+            <p>And are not a great part in <hi>Chriſtendom</hi> ſaying with <hi>Pilate,</hi> that crucified Chriſt, <hi>What is Truth?</hi> Joh. 18.38. though they are bred up at Schools, and think themſelves as wiſe men as <hi>Pilate</hi> was, who underſtood the <hi>Jews</hi> Law and the <hi>Romans,</hi> and had his <hi>Latin, Greek</hi> and <hi>Hebrew</hi> to ſet over Chriſt when he was crucified; but Chriſt is riſen atop of it, and
+<pb n="22" facs="tcp:44857:12"/>the Truth is Chriſt, that doth enlighten you, and you muſt find it in your Inward Parts: And Chriſt ſaith, <hi>I am the Way, the Truth and the Life;</hi> but the wiſe profeſſing <hi>Jews</hi> would not receive him, nor be<g ref="char:EOLhyphen"/>lieve in him then, though they had the Scriptures; and they confeſſed he was to come, as the Profeſſors now, which profeſs he is come, yet will not believe in the Light, but with literal learned <hi>Pilate</hi> ſay, <hi>What is Truth,</hi> though Chriſt ſaith, <hi>I am the Way the Truth and the Life, and no man comes to the Father but by me;</hi> &amp; yet People that call themſelves <hi>Chriſtians</hi> will ſay, <hi>There are ſo many Sects in the World, we know not which to follow; oh! that we did know the Truth:</hi> To which we ſay, Have you been learning all this while, and do not yet know the Truth? Indeed there are Tea<g ref="char:EOLhyphen"/>chers that have the Form of Godlineſs, and deny the Power, that are alwayes teaching, that they may be alwayes paying of them, and leading People that are never able to come to the Knowledge of the Truth (to wit, Chriſt, the Way, the Truth and the Life) For, <hi>to know God and Jeſus Chriſt is Eternal Life;</hi> but to talk of God and Jeſus Chriſt is not Eternal Life: and that which gives People the Knowledge of the Glory of God in the Face of Jeſus Chriſt, is the Light that ſhines in their Hearts, which Chriſt hath en<g ref="char:EOLhyphen"/>lightned them withal; and here is the Love of God in Chriſt Jeſus to them all, to enlighten them all; and here is our Love to all Mankind, In deſi<g ref="char:EOLhyphen"/>ring and inviting them to turn from the Darkneſs to the Light, and to believe in the Light, that they may become Children of the Light, and ſo to look unto Jeſus Chriſt, the Author and Finiſh<g ref="char:EOLhyphen"/>er of their Faith, who hath dyed for their Sins, and
+<pb n="23" facs="tcp:44857:12"/>is riſen again for their Juſtification, and ſitteth at the Right Hand of God: for, by him, to wit Chriſt, all things in Heaven and in Earth are reconciled in one; and <hi>God was in Chriſt reconciling the World unto himſelf;</hi> and ſo we cannot but in Love beſeech all to receive Chriſt Jeſus, the Light, Life and Truth, that by him you may be reconciled unto God, who will lead you out of old <hi>Adam,</hi> and deſtroy the Devil &amp; his Works, who hath ſeparated you from God; and as every one hath received Chriſt Jeſus, ſo walk in him, who is the New and Living Way, who is over all the old and dead Wayes, who is the Rock of Ages, and the Foundation of many Generations, and is our Rock and our Foundation in this our Age and Generation, who bruiſes the Serpent's Head, who is the Firſt and Laſt, who is the Love of God to Mankind; <hi>Glory to God forever.</hi>
+            </p>
+            <closer>
+               <signed>G. F.</signed>
+            </closer>
+         </div>
+         <div type="query">
+            <head>A QUERY to all the Preachers in <hi>Chriſtendom.</hi>
+            </head>
+            <p>
+               <hi>HOw many men and Women have you preſented Perfect in Chriſt Jeſus?</hi> Col. 1. <hi>How many have you Per<g ref="char:EOLhyphen"/>fected? How many have you brought to the Knowledge of the Son of God, and to a Perfect Man, unto the Mea<g ref="char:EOLhyphen"/>ſure of the Stature of the Fulneſs of Chriſt?</hi> Epheſ. 4. <hi>which is the Work of Chriſt's Miniſters.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Worceſter</hi>-Priſon, <date>the 10th Day of the 11th Mon. 1674.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
